@@ -1,6 +1,6 @@
 # StudySystem
 课程设计：基于Java Web的在线学习网站  
-所用技术：Spring MVC  
+所用技术：Spring MVC+MySQL  
 开发软件：eclipse、mysql  
 用户：学生、老师  
 已有功能：  
